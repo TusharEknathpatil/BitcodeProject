@@ -84,8 +84,6 @@
 				0441B7C129FBB8AE0074FE07 /* AppDelegate.swift */,
 				0441B7C329FBB8AE0074FE07 /* SceneDelegate.swift */,
 				0441B7C729FBB8AE0074FE07 /* Main.storyboard */,
-				045EEBFB29FCE8ED000EF5B4 /* CollectionViewCellReuse.swift */,
-				045EEBF929FCE67E000EF5B4 /* DetailsShowToCollectionViewViewController.swift */,
 				0441B7CA29FBB8B30074FE07 /* Assets.xcassets */,
 				0441B7CC29FBB8B30074FE07 /* LaunchScreen.storyboard */,
 				0441B7CF29FBB8B30074FE07 /* Info.plist */,
@@ -97,6 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				0441B7C529FBB8AE0074FE07 /* DetailShowTocollectionView.swift */,
+				045EEBF929FCE67E000EF5B4 /* DetailsShowToCollectionViewViewController.swift */,
 				0441B7E129FBE85A0074FE07 /* PlacementViewController.swift */,
 				0441B7E329FBE9E80074FE07 /* DetailsAddViewController.swift */,
 				0441B7D529FBB9AF0074FE07 /* HomeViewController.swift */,
@@ -118,6 +117,7 @@
 		0441B7E929FBF2990074FE07 /* cells */ = {
 			isa = PBXGroup;
 			children = (
+				045EEBFB29FCE8ED000EF5B4 /* CollectionViewCellReuse.swift */,
 				0441B7E529FBEAF30074FE07 /* TableViewCellForReuse.swift */,
 				0441B7E629FBEAF30074FE07 /* TableViewCellForReuse.xib */,
 			);
